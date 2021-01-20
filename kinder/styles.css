@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+body {
+    font-family: 'Nerko One', cursive;
+}
+
+
+.navbar {
+    background: rgb(253,29,29);
+    background: linear-gradient(90deg, rgba(253,29,29,1) 28%, rgba(252,176,69,1) 67%);
+    padding: 15px 40px;
+}
+
+.navbar-brand {
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.list_numeros {
+    font-family: Geneva, Verdana;
+}
+
+.footer-copyright {
+    font-size: 23px;
+    padding-bottom: 20px;
+}
